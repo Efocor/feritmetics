@@ -6,7 +6,7 @@ Este proyecto es un simulador y visualizador de diversos algoritmos de ordenamie
 
 ## Requisitos
 
-- **Java Development Kit (JDK) 11 o superior**: Asegúrate de tener instalado el JDK. Puedes descargarlo desde [Oracle](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) o utilizar distribuciones alternativas como [Adoptium](https://adoptium.net/).
+- **Java Development Kit (JDK) 12 o superior**: Asegúrate de tener instalado el JDK. Puedes descargarlo desde [Oracle](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) o utilizar distribuciones alternativas como [Adoptium](https://adoptium.net/).
 
 - **JavaFX SDK**: Necesario para la interfaz gráfica. Descárgalo desde [OpenJFX](https://openjfx.io/).
 
