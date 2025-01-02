@@ -1,5 +1,4 @@
-# Feritmetics
-# (Simulador y Visualizador de Algoritmos en Java>)
+# Feritmetics (Simulador y Visualizador de Algoritmos en Java>)
 
 ## Descripción
 
